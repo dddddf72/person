@@ -39,7 +39,7 @@ body {
     }
 } */
 
-h1 {
+#programming h1 {
     position: relative;
     font-size: 100px;
     color: #544E58;
@@ -67,7 +67,7 @@ h1 {
     }
 }
 
-h1::before {
+#programming h1::before {
     position: absolute;
     /* 这里必须是Unicode编码 */
     /* 注意：转换完毕去掉\后面的U */
